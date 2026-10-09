@@ -1,2 +1,2 @@
 # AmoebaWebDesign
-Some web design doodads
+currently outdated - personal website items and assets. more to come!
